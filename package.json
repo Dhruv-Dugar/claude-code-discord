@@ -1,0 +1,14 @@
+{
+  "name": "discord-claude-code-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that spawns Claude Code instances to work on issues",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
